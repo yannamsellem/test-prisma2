@@ -1,0 +1,14 @@
+{
+  "name": "test-prisma2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yann AMSELLEM <yann_ams@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^2.0.0-preview024",
+    "prisma2": "^2.0.0-preview024"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
